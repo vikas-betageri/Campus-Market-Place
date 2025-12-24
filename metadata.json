@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CampusElectronics Marketplace",
+  "description": "A premium peer-to-peer marketplace for college students to sell used electronics. Features AI-powered product description generation and a sleek, customizable dark/light interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
